@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/optiklab) [WebSite](https://optiklab.github.io/)
+- 📫 How to reach me:
+    [LinkedIn](https://www.linkedin.com/in/optiklab)
+    [WebSite](https://optiklab.github.io/)
