@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 -->
 
 [L I N K E D I N](https://www.linkedin.com/in/optiklab)
+
 [S T A C K O V E R F L O W](https://stackoverflow.com/users/1850869/yarkov-anton)
+
 [P O R T F O L I O](https://optiklab.github.io/)
+
